@@ -8,7 +8,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "start": "react-native start",
     "test": "jest",
-    "prettier": "prettier --check ."
+    "prettier": "prettier --check .",
+    "assemble-android": "cd android && ./gradlew assembleRelease && cd .."
   },
   "dependencies": {
     "@hookform/resolvers": "^3.0.0",
