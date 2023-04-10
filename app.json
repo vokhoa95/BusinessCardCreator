@@ -1,0 +1,7 @@
+{
+  "name": "BusinessCardCreator",
+  "displayName": "BusinessCardCreator",
+  "ios": {
+    "supportsTablet": true
+  }
+}
